@@ -4,23 +4,3 @@ $_GET["badword"];
 $sub = str_replace($_GET, '***', $stringa);
 echo $sub;
 ?>
-
-<!-- <!DOCTYPE html>
-<html lang="en" dir="ltr">
-    <head>
-        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="  crossorigin="anonymous"></script>
-        <meta charset="utf-8">
-        <title></title>
-    </head>
-    <body>
-
-
-        <button type="button">Vuoi cambiare una parola?</button>
-
-
-
-
-        <script src="script.js" charset="utf-8"></script>
-
-    </body>
-</html> -->
